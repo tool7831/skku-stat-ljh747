@@ -1,0 +1,25 @@
+{
+    "name": "skku-stat-ljh747",
+    "version": "0.1.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tool7831/skku-stat-ljh747.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/tool7831/skku-stat-ljh747/issues"
+    },
+    "homepage": "https://github.com/tool7831/skku-stat-ljh747#readme",
+    "bin": {
+        "stat": "./main.js"
+    },
+    "devDependencies": {
+        "jest": "^29.1.2"
+    }
+}
